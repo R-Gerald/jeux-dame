@@ -5,8 +5,8 @@ Jeu de Dame - Instructions de Déploiement
     Télécharger le dépôt
     Clonez le dépôt depuis GitHub sur votre machine locale.
 
-    Décompresser le fichier dame.zip
-    Décompressez le fichier dame.zip dans le même dossier où se trouvent les fichiers du projet.
+    Décompresser le fichier Dame.zip
+    Décompressez le fichier Dame.zip dans le même dossier où se trouvent les fichiers du projet.
 
 Donner les permissions d'exécution aux fichiers .sh
 Dans le terminal, donnez les permissions d'exécution aux fichiers .sh en exécutant les :
