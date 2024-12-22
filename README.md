@@ -11,14 +11,14 @@ Jeu de Dame - Instructions de Déploiement
 Donner les permissions d'exécution aux fichiers .sh
 Dans le terminal, donnez les permissions d'exécution aux fichiers .sh en exécutant les :
 
-        chmod +x compile.sh
-        chmod +x serveur.sh
-        chmod +x client.sh
+    chmod +x compile.sh
+    chmod +x serveur.sh
+    chmod +x client.sh
 
 Exécuter les fichiers .sh dans cet ordre
     Compiler le projet :
     
-        ./compile.sh
+    ./compile.sh
         
 Démarrer le serveur:
 
